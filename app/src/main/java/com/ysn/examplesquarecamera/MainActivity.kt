@@ -1,3 +1,10 @@
+/*
+ * Created by YSN Studio on 8/11/18 11:00 PM
+ * Copyright (c) 2018. All rights reserved.
+ *
+ * Last modified 8/11/18 11:00 PM
+ */
+
 package com.ysn.examplesquarecamera
 
 import android.Manifest
